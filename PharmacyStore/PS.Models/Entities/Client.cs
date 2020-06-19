@@ -8,9 +8,9 @@ namespace PS.Models.Entities
     public class Client : BaseEntity
     {
         public int ClientId { get; set; }
-        [StringLength(50, ErrorMessage = "Типът трябва да бъде между {2} и {1} символа.", MinimumLength = 3)]
+        [StringLength(50, MinimumLength = 3)]
         public string FirstName { get; set; }
-        [StringLength(50, ErrorMessage = "Типът трябва да бъде между {2} и {1} символа.", MinimumLength = 3)]
+        [StringLength(50, MinimumLength = 3)]
         public string LastName { get; set; }
         public string Username { get; set; }
         public string Password { get; set; }

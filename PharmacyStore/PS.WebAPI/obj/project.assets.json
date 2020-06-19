@@ -9045,11 +9045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ziro\\source\\repos\\PharmacyStore\\PS.WebAPI\\PS.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Ziro\\Source\\Repos\\PharmacyStore_\\PharmacyStore\\PS.WebAPI\\PS.WebAPI.csproj",
       "projectName": "PS.WebAPI",
-      "projectPath": "C:\\Users\\Ziro\\source\\repos\\PharmacyStore\\PS.WebAPI\\PS.WebAPI.csproj",
+      "projectPath": "C:\\Users\\Ziro\\Source\\Repos\\PharmacyStore_\\PharmacyStore\\PS.WebAPI\\PS.WebAPI.csproj",
       "packagesPath": "C:\\Users\\Ziro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ziro\\source\\repos\\PharmacyStore\\PS.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\Ziro\\Source\\Repos\\PharmacyStore_\\PharmacyStore\\PS.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9068,11 +9068,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Ziro\\source\\repos\\PharmacyStore\\PS.Data\\PS.Data.csproj": {
-              "projectPath": "C:\\Users\\Ziro\\source\\repos\\PharmacyStore\\PS.Data\\PS.Data.csproj"
+            "C:\\Users\\Ziro\\Source\\Repos\\PharmacyStore_\\PharmacyStore\\PS.Data\\PS.Data.csproj": {
+              "projectPath": "C:\\Users\\Ziro\\Source\\Repos\\PharmacyStore_\\PharmacyStore\\PS.Data\\PS.Data.csproj"
             },
-            "C:\\Users\\Ziro\\source\\repos\\PharmacyStore\\PS.Models\\PS.Models.csproj": {
-              "projectPath": "C:\\Users\\Ziro\\source\\repos\\PharmacyStore\\PS.Models\\PS.Models.csproj"
+            "C:\\Users\\Ziro\\Source\\Repos\\PharmacyStore_\\PharmacyStore\\PS.Models\\PS.Models.csproj": {
+              "projectPath": "C:\\Users\\Ziro\\Source\\Repos\\PharmacyStore_\\PharmacyStore\\PS.Models\\PS.Models.csproj"
             }
           }
         }

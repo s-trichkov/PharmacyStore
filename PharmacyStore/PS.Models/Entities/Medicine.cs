@@ -9,7 +9,7 @@ namespace PS.Models.Entities
     public class Medicine : BaseEntity
     {
         public int MedicineId { get; set; }
-        [StringLength(50, ErrorMessage = "Типът трябва да бъде между {2} и {1} символа.", MinimumLength = 3)]
+        [StringLength(50, MinimumLength = 3)]
         public string MedicineName { get; set; }
         public int BrandId { get; set; }
         public Brand Brand { get; set; }

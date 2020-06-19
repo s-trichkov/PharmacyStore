@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4UNqZru2PHCBKF00UKxkeVZN2AbFKYJVZaXXj2E2AlTWO1QEIZ+t5vAEDwhAqaVhZEdRDHSVQD8P8tjlXTLbMQ==",
+  "dgSpecHash": "J2MzUHZOiw7yJjZEnuNEEOc2Nq1/VskGT4SAn4XtJjPQDWXo/D+cUkl8oVFpOarlbohaXDKedznmMgxLp+nqGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ziro\\source\\repos\\PharmacyStore\\PS.Data\\PS.Data.csproj",
+  "projectFilePath": "C:\\Users\\Ziro\\Source\\Repos\\PharmacyStore_\\PharmacyStore\\PS.Data\\PS.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ziro\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Ziro\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

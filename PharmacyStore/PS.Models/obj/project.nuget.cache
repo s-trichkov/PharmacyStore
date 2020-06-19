@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gfC32OIVRiDqkVPv//VlZ+/4GIzWxddbqoPql82+FuTddUPBVpnsLRvzgf9VHpZsL6/jMdPqafGjFFL/22QyRw==",
+  "dgSpecHash": "EuC8jUKbezP62+42OT86jMBNyjui/nVoNZ2larETlC3aVSkFPtUBuk6vkeJZM7dXvTLAzP5NJBbM9kvD0vWw0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ziro\\source\\repos\\PharmacyStore\\PS.Models\\PS.Models.csproj",
+  "projectFilePath": "C:\\Users\\Ziro\\Source\\Repos\\PharmacyStore_\\PharmacyStore\\PS.Models\\PS.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ziro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

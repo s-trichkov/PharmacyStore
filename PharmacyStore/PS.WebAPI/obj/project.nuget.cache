@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nMOiIF7rseFDKmnT6iHm2Wvuh1f5z0qVMjSzDCd31jBG6y0pbpJlIXBek5unFHQwDvsV0P00Rhlw8I8gYjJy9Q==",
+  "dgSpecHash": "1WGf8NePYlR5iLlgE2EuGtoIwvHv4H173Dttq1CclP3SW47MdEZ9pXXhB2PnKkhaQ/knqadUNOBz2U6KFoNWrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ziro\\source\\repos\\PharmacyStore\\PS.WebAPI\\PS.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Ziro\\Source\\Repos\\PharmacyStore_\\PharmacyStore\\PS.WebAPI\\PS.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ziro\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Ziro\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.5\\microsoft.aspnetcore.authentication.jwtbearer.3.1.5.nupkg.sha512",
