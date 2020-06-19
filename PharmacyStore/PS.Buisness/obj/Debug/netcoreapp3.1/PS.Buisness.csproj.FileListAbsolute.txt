@@ -1,0 +1,14 @@
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Buisness\bin\Debug\netcoreapp3.1\PS.Buisness.deps.json
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Buisness\bin\Debug\netcoreapp3.1\PS.Buisness.dll
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Buisness\bin\Debug\netcoreapp3.1\PS.Buisness.pdb
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Buisness\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Buisness\bin\Debug\netcoreapp3.1\PS.Models.dll
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Buisness\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Buisness\bin\Debug\netcoreapp3.1\PS.Models.pdb
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Buisness\obj\Debug\netcoreapp3.1\PS.Buisness.csprojAssemblyReference.cache
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Buisness\obj\Debug\netcoreapp3.1\PS.Buisness.AssemblyInfoInputs.cache
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Buisness\obj\Debug\netcoreapp3.1\PS.Buisness.AssemblyInfo.cs
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Buisness\obj\Debug\netcoreapp3.1\PS.Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Buisness\obj\Debug\netcoreapp3.1\PS.Buisness.csproj.CopyComplete
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Buisness\obj\Debug\netcoreapp3.1\PS.Buisness.dll
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Buisness\obj\Debug\netcoreapp3.1\PS.Buisness.pdb

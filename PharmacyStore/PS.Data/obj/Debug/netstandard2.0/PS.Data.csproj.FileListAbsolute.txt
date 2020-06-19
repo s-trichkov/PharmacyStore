@@ -1,0 +1,12 @@
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Data\bin\Debug\netstandard2.0\PS.Data.deps.json
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Data\bin\Debug\netstandard2.0\PS.Data.dll
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Data\obj\Debug\netstandard2.0\PS.Data.csprojAssemblyReference.cache
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Data\obj\Debug\netstandard2.0\PS.Data.AssemblyInfoInputs.cache
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Data\obj\Debug\netstandard2.0\PS.Data.AssemblyInfo.cs
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Data\bin\Debug\netstandard2.0\PS.Models.dll
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Data\bin\Debug\netstandard2.0\PS.Data.pdb
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Data\bin\Debug\netstandard2.0\PS.Models.pdb
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Data\obj\Debug\netstandard2.0\PS.Data.csproj.CopyComplete
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Data\obj\Debug\netstandard2.0\PS.Data.dll
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Data\obj\Debug\netstandard2.0\PS.Data.pdb
+C:\Users\Ziro\source\repos\PharmacyStore\PS.Data\obj\Debug\netstandard2.0\PS.Data.csproj.CoreCompileInputs.cache
